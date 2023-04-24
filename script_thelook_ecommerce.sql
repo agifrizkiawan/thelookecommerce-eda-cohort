@@ -210,7 +210,7 @@
   -- from previous
   -- order by 1 desc
 --------------------------------------------------------------------------------------------------------------------------------------------
--- 7.	Create monthly retention cohorts (the groups, or cohorts, can be defined based upon the date that a user purchased a product) and then how many of them (%) coming back for the following months in 2019 - 2022.
+-- 7.	Create monthly retention cohorts (the groups, or cohorts, can be defined based upon the date that a user purchased a product) and then how many of them (%) coming back for the following 3 months.
 -- Expected output:
 -- •	Month
 -- •	M (# of users in current month)
